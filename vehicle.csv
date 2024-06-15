@@ -1,0 +1,96 @@
+,Unnamed: 0,vehicle_id,RTO_no_,vehicle_registration_date,type_of_vehicle,driver_id,driver_name,helper_id,helper_name
+0,0,8SIT592,e8:ce:b4:7f:d0:45,2017-08-04,Small Type,285,Kaira,657,Keya
+1,1,UGP 259,bc:ed:36:a3:dc:25,2021-05-07,Small Type,846,Saira,297,Arhaan
+2,2,X 656506,58:85:07:bc:6b:b0,2016-09-22,Small Type,641,Arnav,722,Bhamini
+3,3,FU9 Y1U,40:11:8b:7b:53:af,2023-11-13,Small Type,140,Indrajit,1015,Elakshi
+4,4,1VQ F64,4a:29:f2:e5:a5:27,2023-10-02,Small Type,545,Priyansh,697,Fateh
+5,5,7-B7707,36:60:1b:f7:08:1b,2020-10-02,Small Type,144,Vedika,1021,Ira
+6,6,XOL-368,f6:1a:4b:a5:40:bc,2020-03-30,Small Type,950,Jiya,649,Reyansh
+7,7,KEN 047,e2:5c:97:77:b9:96,2020-05-17,Small Type,510,Aaina,575,Kismat
+8,8,16-31662,1c:e0:73:d1:71:b5,2021-06-03,Small Type,521,Rasha,1084,Aradhya
+9,9,879 VHO,5c:b5:a0:8f:f5:83,2023-05-23,Small Type,412,Rasha,245,Divyansh
+10,10,EUR 294,48:ff:04:8e:77:08,2017-02-27,Small Type,1148,Rohan,570,Yuvraj 
+11,11,YUM 667,36:6c:f5:3e:e3:9f,2023-07-11,Small Type,1193,Shalv,112,Lakshay
+12,12,8O 4C3HVA,c0:61:95:f6:ab:74,2018-03-27,Small Type,836,Saksham,447,Divyansh
+13,13,9DB5166,12:55:9f:29:86:5a,2018-03-09,Small Type,626,Ayesha,486,Sana
+14,14,VS 60923,8c:d5:b0:af:c8:8d,2019-01-20,Small Type,354,Gatik,832,Tejas
+15,15,KPJ-583,66:2f:0a:8d:cb:79,2022-10-21,Small Type,1159,Vardaniya,1003,Kartik
+16,16,46R•450,b8:7f:8b:49:62:9a,2019-11-01,Small Type,904,Zeeshan,1099,Advika
+17,17,Y28 3PS,a6:62:87:2f:26:5a,2022-01-27,Small Type,139,Anvi,594,Taimur
+18,18,63-71702,76:5e:7f:06:12:0d,2020-03-24,Small Type,952,Eshani,1088,Pari
+19,19,469 MQL,22:0c:45:ba:2e:08,2023-06-25,Small Type,928,Purab,712,Zain
+20,20,386NUJ,5e:23:41:77:3c:56,2021-06-13,Small Type,1096,Shalv,253,Shanaya
+21,21,496 VWJ,f8:7e:73:61:0d:f0,2022-05-03,Small Type,1136,Riaan,1047,Amani
+22,22,3MT4142,ec:0e:7e:63:34:dd,2023-11-04,Small Type,554,Zain,507,Anahita
+23,23,4-1047Y,aa:d6:65:57:76:8a,2020-06-23,Small Type,1182,Biju,718,Arhaan
+24,24,OSB-4739,a8:6d:10:22:b5:09,2021-03-12,Small Type,408,Nitya,160,Shanaya
+25,25,H31-49K,1c:9c:c5:8d:84:6c,2018-02-15,Small Type,589,Drishya,680,Raghav
+26,26,345 FDB,2c:1c:b7:fd:72:39,2019-01-13,Small Type,291,Zeeshan,341,Samar
+27,27,UQI-6396,7c:1a:bc:39:0b:68,2017-05-03,Small Type,844,Drishya,566,Oorja
+28,28,FU 94567,74:b8:d7:6a:60:b5,2020-11-24,Small Type,573,Myra,248,Dhruv
+29,29,DPR 366,d6:fa:23:d9:94:a9,2018-02-22,Small Type,142,Piya,611,Vidur
+30,30,HZE-5936,96:8e:cb:14:b8:2c,2021-12-15,Small Type,524,Tejas,1093,Veer
+31,31,65I KW2,70:5f:10:f8:b8:32,2020-05-24,Small Type,655,Shamik,747,Samar
+32,32,944 OGS,f6:98:6b:86:49:7b,2019-01-17,Small Type,213,Keya,951,Parinaaz
+33,33,316-QOQ,9c:59:37:ae:1f:9d,2024-03-04,Small Type,529,Nirvi,282,Aaryahi
+34,34,521478,06:9b:a8:12:00:16,2016-08-25,Small Type,533,Miraan,935,Suhana
+35,35,2Q212,34:65:bc:39:a8:e5,2021-02-11,Small Type,669,Pari,805,Adira
+36,36,9EW A00,de:2c:48:e6:f4:fb,2017-02-06,Small Type,115,Jhanvi,445,Ishita
+37,37,DXS 867,c6:d2:08:87:88:e7,2020-05-20,Small Type,753,Adira,870,Pihu
+38,38,HLL 642,0e:92:0b:65:9f:c4,2024-02-06,Small Type,738,Reyansh,1134,Lavanya
+39,39,AAF-3043,3a:72:bc:96:0e:26,2022-11-17,Small Type,737,Jhanvi,419,Lakshit
+40,40,RYX5144,0c:dd:56:f0:08:cd,2022-12-24,Small Type,1056,Mannat,135,Zoya
+41,41,038XWC,3a:e0:3f:6d:4a:5e,2022-06-22,Small Type,561,Ira,586,Yasmin
+42,42,84O•032,4a:53:73:f9:64:eb,2019-03-22,Small Type,1032,Priyansh,217,Mannat
+43,43,W38 4YP,30:3c:30:bd:34:59,2018-11-13,Small Type,944,Hrishita,459,Aayush
+44,44,88R•834,90:01:0a:9b:a7:4e,2020-01-20,Small Type,917,Nehmat,711,Hansh
+45,45,ZVA6425,04:24:79:19:93:29,2016-10-12,Small Type,317,Taran,882,Pihu
+46,46,80TW723,22:f9:69:33:18:e4,2018-02-12,Small Type,196,Lakshit,745,Tarini
+47,47,2YS B92,da:8c:83:e0:0c:65,2021-08-18,Small Type,264,Tara,715,Vanya
+48,48,0248 UI,84:6b:01:34:bc:94,2020-04-02,Small Type,369,Raunak,949,Saksham
+49,49,ZWG 977,52:3f:43:6b:e3:ff,2020-06-12,Small Type,886,Yuvraj ,802,Manjari
+50,50,DB0 Y5V,6c:32:f8:03:90:73,2018-05-22,Big Tpe,224,Bhavin,174,Urvi
+51,51,798-254,4e:78:3b:39:fe:88,2021-09-07,Big Tpe,335,Jayan,973,Ehsaan
+52,52,7A Z2095,ec:15:b7:9e:ee:1a,2022-04-26,Big Tpe,909,Adira,571,Nishith
+53,53,1CX6172,2e:69:1f:1f:c3:4e,2022-12-18,Big Tpe,396,Tanya,783,Priyansh
+54,54,KHP2958,e2:bb:ec:e6:8c:77,2021-07-04,Big Tpe,820,Ojas,945,Misha
+55,55,0362 TN,86:88:23:80:e7:41,2017-08-21,Big Tpe,693,Taimur,625,Aarav
+56,56,IEL-3219,5c:ae:67:0c:84:e5,2019-08-09,Big Tpe,442,Dhanush,808,Samar
+57,57,7F 83711,68:e9:17:92:84:d1,2018-12-10,Big Tpe,216,Manjari,344,Jayan
+58,58,EFD 209,3c:57:d2:90:dd:a9,2020-05-18,Big Tpe,439,Onkar,389,Hunar
+59,59,HLF8891,90:2b:7c:12:48:3b,2017-01-26,Big Tpe,320,Saira,793,Sara
+60,60,616-MHB,54:e5:ef:12:0a:91,2022-08-05,Big Tpe,599,Emir,647,Vanya
+61,61,042-SBM,0a:d7:45:b9:1b:a6,2017-05-22,Big Tpe,418,Vihaan,1132,Shamik
+62,62,ZKS 706,1e:12:1b:75:60:d4,2024-03-25,Big Tpe,421,Jivika,1172,Hunar
+63,63,YYX-778,c0:f0:ca:87:b6:77,2021-02-26,Big Tpe,169,Keya,914,Anaya
+64,64,46N 1643,f0:a8:15:3c:e1:40,2016-09-21,Big Tpe,601,Ishaan,1178,Prerak
+65,65,HFM7601,da:65:c6:0a:c5:54,2019-02-14,Big Tpe,876,Zeeshan,288,Vanya
+66,66,BT 34920,c6:a2:66:3c:39:8f,2021-03-03,Big Tpe,1175,Mannat,629,Mamooty
+67,67,97V 2557,98:83:9a:0d:1c:cd,2022-08-06,Big Tpe,1121,Yakshit,977,Krish
+68,68,731H,66:ed:b7:ea:92:91,2023-12-19,Big Tpe,301,Urvi,303,Fateh
+69,69,7D 7219O,9e:a0:68:9e:87:56,2024-02-15,Big Tpe,572,Aarush,1038,Manikya
+70,70,FYP-668,10:26:da:ec:96:6e,2017-06-12,Big Tpe,709,Kimaya,272,Ivana
+71,71,PQM 237,28:a5:b9:2a:57:b9,2016-07-30,Big Tpe,826,Anay,1126,Pranay
+72,72,350SQD,28:71:a2:4e:59:a4,2024-03-11,Big Tpe,391,Tiya,1044,Rohan
+73,73,420 ZSK,ea:f9:69:f2:54:69,2020-04-16,Big Tpe,518,Kaira,252,Dhanuk
+74,74,0RZ 113,6a:6f:d4:15:29:9b,2023-01-15,Big Tpe,374,Adira,352,Dharmajan
+75,75,90-ZW79,40:a6:b6:dd:33:72,2017-05-08,Big Tpe,1171,Jayant,275,Madhup
+76,76,5R 2136T,ca:45:8e:33:da:71,2024-02-02,Big Tpe,410,Ira,233,Neysa
+77,77,844-VNWW,ec:85:55:45:27:5b,2019-04-23,Big Tpe,152,Heer,541,Sumer
+78,78,054 FGA,cc:a9:b2:53:9c:a7,2016-08-06,Big Tpe,185,Tushar,103,Eva
+79,79,ZKJ 956,20:e3:28:52:a4:96,2022-07-29,Big Tpe,639,Advika,902,Rania
+80,80,LBR 0616,44:de:39:e9:09:56,2023-11-04,Big Tpe,681,Diya,1091,Aayush
+81,81,TZQ-6958,5a:9e:7b:a6:0a:16,2019-08-29,Big Tpe,597,Kiaan,828,Drishya
+82,82,7-2249K,24:2d:1a:5d:51:e6,2018-12-18,Big Tpe,113,Arnav,1097,Seher
+83,83,13BR0,3c:6a:50:22:ad:e2,2019-12-02,Big Tpe,971,Jayesh,744,Tara
+84,84,YGG-767,d0:20:bc:a3:57:c8,2019-10-25,Big Tpe,591,Armaan,874,Stuvan
+85,85,836 DFA,e8:4d:75:fd:51:9e,2022-01-05,Big Tpe,1156,Ishita,829,Faiyaz
+86,86,MBZ8148,ac:d5:98:7f:19:4b,2016-12-07,Big Tpe,552,Dhanush,155,Piya
+87,87,5X 01330,fa:39:f3:2c:f6:a2,2016-06-24,Big Tpe,896,Ryan,640,Veer
+88,88,GWJ 858,46:17:38:60:6f:45,2024-04-08,Big Tpe,315,Aniruddh,660,Tushar
+89,89,45MK0,2a:99:c9:c1:dd:bd,2022-05-14,Big Tpe,1005,Rania,314,Nishith
+90,90,772 RPW,b4:46:25:38:ec:33,2022-10-24,Big Tpe,202,Adah,381,Vedika
+91,91,KQM-873,dc:6a:f0:3b:24:b9,2020-03-23,Big Tpe,153,Veer,592,Shray
+92,92,033LHT,7a:3a:ec:0c:1b:c2,2017-01-06,Big Tpe,754,Madhav,343,Neysa
+93,93,65-B758,48:bc:ba:bb:f9:92,2017-03-03,Big Tpe,924,Eshani,961,Aradhya
+94,94,DDQ 881,b2:81:21:19:12:f4,2022-09-11,Big Tpe,1067,Kashvi,684,Ahana 
